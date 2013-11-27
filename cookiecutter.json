@@ -1,0 +1,13 @@
+{
+    "full_name": "Martín Gaitán",
+    "email": "gaitan@gmail.com",
+    "use_test": true,
+    "github_username": "mgaitan",
+    "twitter_username": "tin_nqn",
+    "repo_name": "slides",
+    "title": "A wonderful presentation",
+    "short_description": "Something wonderful to show",
+    "keywords": "",
+    "transition-duration": 400,
+    "version": "0.1.0"
+}
